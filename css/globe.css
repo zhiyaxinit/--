@@ -1,0 +1,22 @@
+body,h3,h1,dl,dd{
+	margin: 0;
+}
+ul,ol{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	vertical-align: top;
+}
+a{
+	text-decoration: none;
+}
+body{
+	font-size: 12px;
+	font-family: "宋体";
+}
+input{
+	padding: 0;
+	border: none;
+}
